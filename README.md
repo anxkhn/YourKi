@@ -1,4 +1,4 @@
-# YourKi木 - Customized Binary Tree Visualizer
+# YourKi木 
 
 
 YourKi木 is a Streamlit project that empowers you to visualize balanced binary trees based on your custom input and preferences. Craft unique and personalized tree visualizations by choosing the traversal type (Preorder, Inorder, or Postorder) and entering the corresponding traversal order. Additionally, you can customize the graph style to create a distinctive and meaningful tree representation.

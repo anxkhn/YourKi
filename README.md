@@ -61,6 +61,15 @@ YourKi木 is a Streamlit project that empowers you to visualize balanced binary 
      streamlit run app.py
      ```
 
+Make sure you have a proper environment to run the following command on a Linux environment:
+
+```bash
+sudo apt install graphviz
+```
+
+This command installs Graphviz on your Linux system.
+
+
 ## Check out the Deployed App
 
 Visit [yourki.streamlit.app](https://yourki.streamlit.app) to explore and interact with the YourKi木 app online. Now you can visualize customized binary trees with ease. Adjust traversal input, select traversal types, and customize graph styles to create unique and personalized tree visualizations.
